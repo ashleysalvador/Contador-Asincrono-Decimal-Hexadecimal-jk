@@ -4,7 +4,7 @@ Simulación en Proteus de un contador asíncrono de 4 bits con flip-flops JK
 (74LS76). Con un selector puede contar de 0 a 9 (decimal) o de 0 a F
 (hexadecimal).
 
-![Circuito](captura-circuito.PNG)
+![Circuito](circuito-captura.PNG)
 
 ## Componentes
 - 4 flip-flops JK (74LS76) en modo toggle (J = K = 1)
